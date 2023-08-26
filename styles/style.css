@@ -94,7 +94,12 @@ body {
     background-color: var(--cor-hover);
 
 }
-
+.apresentacao__imagem2 {
+    width: 30%;
+    display: flex;
+    align-self:center;
+    
+}
 .apresentacao__imagem {
     width: 30%;
     display: flex;
